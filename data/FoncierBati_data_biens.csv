@@ -1,0 +1,91 @@
+id,superficie,nature,anneeConstruction,localisation,nbrChambres,quartier,coutAcquisitionFCFA,etatGeneral
+1,120,Maison,2015,Niamey,3,Habou,45000000,bon
+2,85,Maison,2018,Niamey,2,Koura,35000000,neuf
+3,200,Villa,2020,Niamey,4,Amitié,120000000,neuf
+4,60,Maison,2012,Zinder,1,Birni,15000000,moyen
+5,150,Villa,2019,Maradi,3,SarkinYamma,80000000,bon
+6,100,Maison,2017,Agadez,2,SabonGari,25000000,bon
+7,180,Villa,2021,Niamey,5,Terminus,150000000,neuf
+8,70,Maison,2014,Tahoua,2,Marché,18000000,moyen
+9,250,Villa,2017,Niamey,6,Plateau,180000000,bon
+10,90,Maison,2016,Dosso,2,Zongo,20000000,moyen
+11,130,Maison,2019,Maradi,3,GarinBaka,40000000,bon
+12,170,Villa,2022,Niamey,4,Maourey,130000000,neuf
+13,55,Maison,2013,Diffa,1,Commune,12000000,à rénover
+14,140,Maison,2020,Zinder,3,Goudoumaria,35000000,bon
+15,190,Villa,2018,Niamey,5,Sonuci,140000000,bon
+16,65,Maison,2015,Tillabéri,2,Filingué,16000000,moyen
+17,110,Maison,2021,Agadez,3,Toudou,30000000,neuf
+18,220,Villa,2019,Maradi,4,Dankade,95000000,bon
+19,75,Maison,2017,Tahoua,2,Bagaroua,20000000,bon
+20,160,Villa,2020,Niamey,4,Yantala,110000000,bon
+21,95,Maison,2018,Niamey,3,Kalley,38000000,bon
+22,135,Maison,2016,Zinder,2,Mirria,32000000,moyen
+23,210,Villa,2021,Maradi,5,Gazaoua,110000000,neuf
+24,80,Maison,2019,Agadez,2,Abalak,22000000,bon
+25,175,Villa,2017,Niamey,4,Kokni,125000000,bon
+26,60,Maison,2011,Maradi,2,Gambou,16000000,à rénover
+27,90,Maison,2015,Zinder,3,Commune,25000000,bon
+28,130,Maison,2019,Niamey,4,Karadjé,50000000,neuf
+29,180,Villa,2016,Agadez,5,Sakola,100000000,bon
+30,100,Maison,2014,Tahoua,3,Marché,27000000,moyen
+31,70,Maison,2012,Dosso,2,Yantala,19000000,moyen
+32,200,Villa,2018,Zinder,4,DanMallam,95000000,bon
+33,85,Maison,2017,Niamey,2,Kalley,32000000,bon
+34,150,Villa,2020,Maradi,5,SabonGari,105000000,neuf
+35,115,Maison,2015,Niamey,3,Plateau,42000000,bon
+36,125,Maison,2020,Niamey,3,Lazaret,48000000,bon
+37,175,Villa,2019,Maradi,4,Dankassoua,92000000,bon
+38,68,Maison,2015,Zinder,2,Tanout,17500000,moyen
+39,145,Maison,2018,Niamey,4,Kourfaye,52000000,bon
+40,205,Villa,2021,Agadez,5,Tchintabaraden,118000000,neuf
+41,78,Maison,2016,Tahoua,2,Keita,19500000,bon
+42,155,Villa,2017,Niamey,4,Gamkallé,88000000,bon
+43,92,Maison,2019,Dosso,2,Dioundiou,23000000,bon
+44,132,Maison,2017,Maradi,3,Mayara,37000000,bon
+45,185,Villa,2020,Zinder,5,Magaria,102000000,bon
+46,62,Maison,2014,Tillabéri,1,Anzourou,14500000,moyen
+47,115,Maison,2021,Niamey,3,Niamey2000,45000000,neuf
+48,165,Villa,2018,Agadez,4,Dabaga,95000000,bon
+49,88,Maison,2015,Maradi,2,Attantané,21000000,moyen
+50,142,Maison,2019,Niamey,4,KoiraTégui,51000000,bon
+51,195,Villa,2022,Tahoua,5,Badaguichiri,125000000,neuf
+52,72,Maison,2013,Diffa,1,N'Gourti,15500000,à rénover
+53,128,Maison,2016,Niamey,3,YantalaSud,39000000,bon
+54,178,Villa,2017,Zinder,4,Dungass,89000000,bon
+55,82,Maison,2018,Dosso,2,Falmey,20500000,bon
+56,138,Maison,2020,Maradi,3,AguiéNord,42000000,bon
+57,215,Villa,2021,Niamey,6,Aéroport,165000000,neuf
+58,58,Maison,2012,Tillabéri,1,Say,13500000,à rénover
+59,105,Maison,2019,Agadez,3,Tabelot,32000000,bon
+60,152,Villa,2018,Niamey,4,NiameyNord,98000000,bon
+61,130,Maison,2010,Niamey,3,Lamordé,28000000,moyen
+62,210,Villa,2019,Maradi,5,Tessaoua,115000000,neuf
+63,75,Maison,2012,Tahoua,2,Bagaroua,22000000,moyen
+64,155,Villa,2023,Niamey,4,YantalaEst,158000000,neuf
+65,95,Maison,2017,Zinder,3,Mirria,32000000,bon
+66,180,Villa,2016,Agadez,4,Timia,92000000,bon
+67,110,Maison,2014,Maradi,2,Madarounfa,30000000,bon
+68,225,Villa,2021,Niamey,6,Kourtilé,170000000,neuf
+69,65,Maison,2011,Dosso,1,Gaya,16000000,à rénover
+70,142,Maison,2018,Tillabéri,3,Ouallam,38000000,bon
+71,195,Villa,2020,Maradi,4,DanIssa,110000000,bon
+72,88,Maison,2015,Agadez,2,Dabaga,25000000,bon
+73,168,Villa,2017,Niamey,5,Kollo,135000000,bon
+74,105,Maison,2019,Zinder,3,Tanout,36000000,bon
+75,230,Villa,2022,Maradi,6,Mayahi,125000000,neuf
+76,72,Maison,2013,Tahoua,1,Malbaza,18500000,moyen
+77,138,Maison,2020,Diffa,2,N'Guigmi,34000000,bon
+78,205,Villa,2018,Niamey,5,KoiraTégui,145000000,bon
+79,82,Maison,2016,Dosso,2,Loga,21000000,bon
+80,152,Villa,2019,Agadez,4,Arlit,98000000,bon
+81,200,Villa,2020,Maradi,5,DanIssa,118000000,neuf
+82,85,Maison,2010,Niamey,2,Lamordé,22000000,moyen
+83,155,Villa,2023,Niamey,4,Plateau,182000000,neuf
+84,60,Maison,2014,Diffa,1,N'Guigmi,16500000,à rénover
+85,220,Villa,2018,Zinder,6,Magaria,108000000,bon
+86,120,Maison,2015,Niamey,3,KoiraTégui,48000000,bon  # Correction prix historique
+87,200,Villa,2018,Maradi,4,DanMallam,115000000,neuf  # Référence réelle
+88,80,Maison,2010,Tahoua,2,Takanamat,22000000,moyen  # Alignement décote
+89,150,Villa,2023,Niamey,5,Aéroport,195000000,neuf  # Prix réel marché 2023
+90,60,Maison,2014,Dosso,1,Falwel,18000000,moyen    # Cohérence régionale

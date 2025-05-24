@@ -1,0 +1,81 @@
+lotissement,superficie,localite,type_terrain,dateAcquis,coutInvestissements,valeurAcquisFCFA
+Résidentiel,450,Niamey,Terrain à bâtir,2020-05-12,12500000,45000000
+Commercial,1200,Maradi,Terrain à bâtir,2021-07-15,25000000,75000000
+Agricole,8500,Dosso,Terrain agricole,2020-09-17,6500000,15000000
+Mixte,3500,Zinder,Terrain agricole,2018-03-28,8000000,22000000
+Résidentiel,600,Niamey,Terrain à bâtir,2022-01-10,18000000,52000000
+Commercial,950,Agadez,Terrain à bâtir,2021-12-05,22000000,68000000
+Agricole,12500,Tillabéri,Terrain agricole,2019-11-03,5000000,18000000
+Résidentiel,750,Tahoua,Terrain à bâtir,2019-06-30,9500000,28000000
+Mixte,4200,Diffa,Terrain agricole,2017-04-22,7500000,20000000
+Commercial,1800,Maradi,Terrain à bâtir,2023-02-14,30000000,85000000
+Résidentiel,320,Niamey,Terrain à bâtir,2021-03-18,9800000,35000000
+Commercial,850,Maradi,Terrain à bâtir,2020-11-22,18000000,55000000
+Agricole,9200,Tillabéri,Terrain agricole,2019-08-14,4200000,12500000
+Mixte,2800,Zinder,Terrain agricole,2022-05-30,7000000,19000000
+Résidentiel,540,Niamey,Terrain à bâtir,2023-01-15,16000000,48000000
+Commercial,1100,Agadez,Terrain à bâtir,2021-09-07,20000000,62000000
+Agricole,6800,Dosso,Terrain agricole,2020-04-25,3800000,11000000
+Résidentiel,680,Tahoua,Terrain à bâtir,2022-07-11,11000000,32000000
+Mixte,3800,Diffa,Terrain agricole,2018-10-05,6500000,17500000
+Commercial,1500,Maradi,Terrain à bâtir,2023-04-02,27000000,78000000
+Résidentiel,420,Niamey,Terrain à bâtir,2021-12-19,13000000,42000000
+Commercial,950,Tahoua,Terrain à bâtir,2020-06-08,15000000,45000000
+Agricole,11500,Tillabéri,Terrain agricole,2019-02-17,5800000,16800000
+Mixte,3200,Maradi,Terrain agricole,2022-09-23,8500000,23000000
+Résidentiel,580,Zinder,Terrain à bâtir,2023-03-12,12500000,38000000
+Commercial,1250,Agadez,Terrain à bâtir,2021-05-29,22000000,65000000
+Agricole,7500,Dosso,Terrain agricole,2020-08-16,4500000,13500000
+Résidentiel,720,Niamey,Terrain à bâtir,2022-11-07,17500000,52000000
+Mixte,4100,Diffa,Terrain agricole,2017-12-14,7200000,19500000
+Commercial,1650,Maradi,Terrain à bâtir,2023-06-21,29000000,82000000
+Résidentiel,380,Niamey,Terrain à bâtir,2021-07-14,11500000,39000000
+Commercial,920,Maradi,Terrain à bâtir,2020-09-05,19500000,58000000
+Agricole,10500,Tillabéri,Terrain agricole,2019-05-28,5300000,15500000
+Mixte,2400,Zinder,Terrain agricole,2022-02-17,6500000,17500000
+Résidentiel,490,Niamey,Terrain à bâtir,2023-04-22,14500000,44000000
+Commercial,1350,Agadez,Terrain à bâtir,2021-11-11,23500000,68000000
+Agricole,7200,Dosso,Terrain agricole,2020-03-09,4000000,12000000
+Résidentiel,610,Tahoua,Terrain à bâtir,2022-08-03,10500000,31000000
+Mixte,3600,Diffa,Terrain agricole,2018-12-19,6800000,18500000
+Commercial,1420,Maradi,Terrain à bâtir,2023-05-08,25500000,74000000
+Résidentiel,430,Niamey,Terrain à bâtir,2021-10-26,12500000,40500000
+Commercial,880,Tahoua,Terrain à bâtir,2020-04-30,14200000,43000000
+Agricole,9800,Tillabéri,Terrain agricole,2019-01-12,4900000,14500000
+Mixte,2900,Maradi,Terrain agricole,2022-07-24,7900000,21000000
+Résidentiel,520,Zinder,Terrain à bâtir,2023-02-15,11800000,36000000
+Commercial,1150,Agadez,Terrain à bâtir,2021-06-18,20800000,63000000
+Agricole,8200,Dosso,Terrain agricole,2020-07-07,4700000,14000000
+Résidentiel,670,Niamey,Terrain à bâtir,2022-10-29,16500000,49000000
+Mixte,3950,Diffa,Terrain agricole,2017-11-08,7100000,19200000
+Commercial,1580,Maradi,Terrain à bâtir,2023-07-12,27500000,79000000
+Résidentiel,410,Niamey,Terrain à bâtir,2021-09-03,13200000,42500000
+Commercial,1020,Maradi,Terrain à bâtir,2020-08-16,18500000,56000000
+Agricole,11200,Tillabéri,Terrain agricole,2019-04-05,5600000,16500000
+Mixte,2650,Zinder,Terrain agricole,2022-03-28,6900000,18800000
+Résidentiel,530,Niamey,Terrain à bâtir,2023-06-11,15200000,46000000
+Commercial,1270,Agadez,Terrain à bâtir,2021-12-09,24200000,71000000
+Agricole,7800,Dosso,Terrain agricole,2020-02-14,4300000,13000000
+Résidentiel,640,Tahoua,Terrain à bâtir,2022-09-07,11200000,33500000
+Mixte,3450,Diffa,Terrain agricole,2019-01-23,6700000,18200000
+Commercial,1480,Maradi,Terrain à bâtir,2023-08-25,26500000,77000000
+Résidentiel,460,Niamey,Terrain à bâtir,2021-11-17,13800000,44500000
+Commercial,970,Tahoua,Terrain à bâtir,2020-05-19,15500000,47000000
+Agricole,10700,Tillabéri,Terrain agricole,2019-03-02,5100000,15000000
+Mixte,3100,Maradi,Terrain agricole,2022-06-13,8200000,22500000
+Résidentiel,550,Zinder,Terrain à bâtir,2023-01-04,12200000,37000000
+Commercial,1080,Agadez,Terrain à bâtir,2021-08-27,21500000,66000000
+Agricole,8600,Dosso,Terrain agricole,2020-10-11,4900000,14800000
+Résidentiel,690,Niamey,Terrain à bâtir,2022-12-18,17200000,51000000
+Mixte,3750,Diffa,Terrain agricole,2018-07-06,7000000,19000000
+Commercial,1620,Maradi,Terrain à bâtir,2023-09-30,28500000,82000000
+Résidentiel,440,Niamey,Terrain à bâtir,2021-12-24,14200000,45500000
+Commercial,890,Maradi,Terrain à bâtir,2020-10-08,17800000,54000000
+Agricole,10200,Tillabéri,Terrain agricole,2019-06-21,5400000,16000000
+Mixte,2300,Zinder,Terrain agricole,2022-04-05,6300000,17200000
+Résidentiel,510,Niamey,Terrain à bâtir,2023-07-09,14800000,45000000
+Commercial,1320,Agadez,Terrain à bâtir,2022-01-14,23800000,70000000
+Agricole,7600,Dosso,Terrain agricole,2020-01-27,4100000,12500000
+Résidentiel,620,Tahoua,Terrain à bâtir,2022-11-26,10800000,32500000
+Mixte,3250,Diffa,Terrain agricole,2019-02-15,6600000,18000000
+Commercial,1520,Maradi,Terrain à bâtir,2023-10-15,27200000,78500000
