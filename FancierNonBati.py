@@ -5,6 +5,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
+import numpy as np
 import joblib
 
 # Charger les nouvelles données
@@ -44,6 +45,11 @@ param_grid = {
 
 grid_search = GridSearchCV(pipeline, param_grid, cv=5, n_jobs=-1, verbose=2)  # cv augmenté à 5
 grid_search.fit(X_train, y_train)
+y_pred = grid_search.predict(X_test)
+
+
+
+mape = np.mean(np.abs((y_test - y_pred) / y_test)) * 100
 
 # Évaluation
 print("Meilleurs paramètres:", grid_search.best_params_)
@@ -53,6 +59,14 @@ mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 print(f"Erreur quadratique moyenne : {mse}")
 print(f"R² : {r2}")
+
+
+# Affichage
+print("===== ÉVALUATION DU MODÈLE =====")
+print("Meilleurs paramètres:", grid_search.best_params_)
+print(f"MSE   : {mse:.2f} FCFA²")
+print(f"R²    : {r2:.3f}")
+print(f"MAPE  : {mape:.2f} %")
 
 # Sauvegarde du nouveau modèle
 joblib.dump(grid_search.best_estimator_, 'C:/Users/DELL/Desktop/isetn/pfe/machine-learning/models/model_fonciernonbati.pkl')

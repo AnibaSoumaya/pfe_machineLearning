@@ -12,15 +12,14 @@ data = pd.read_csv('C:/Users/DELL/Desktop/isetn/pfe/machine-learning/data/carDat
 
 # Vérifier et supprimer les lignes avec valeurs manquantes dans la cible
 data = data.dropna(subset=['Selling_Price'])
-
-# Définir X et y
+print(data.head())# Définir X et y
 X = data[['Year', 'Present_Price', 'Kms_Driven', 'Fuel_Type', 'Transmission']]
 y = data['Selling_Price']
 
 # Colonnes catégorielles
 categorical_features = ['Fuel_Type', 'Transmission']
 
-# Pipeline de prétraitement
+# 3. PRÉPARATION DES DONNÉES
 preprocessor = ColumnTransformer(
     transformers=[
         ('cat', OneHotEncoder(handle_unknown='ignore'), categorical_features)
@@ -28,7 +27,6 @@ preprocessor = ColumnTransformer(
     remainder='passthrough'
 )
 
-# Pipeline complet
 pipeline = Pipeline(steps=[
     ('preprocessor', preprocessor),
     ('scaler', StandardScaler(with_mean=False)),
@@ -55,4 +53,4 @@ print("MSE:", mean_squared_error(y_test, y_pred))
 print("R²:", r2_score(y_test, y_pred))
 
 # Sauvegarder le modèle
-joblib.dump(grid_search.best_estimator_, 'C:/Users/DELL/Desktop/isetn/pfe/machine-learning/models/model_car_price.pkl')
+joblib.dump(grid_search.best_estimator_, 'C:/Users/DELL/Desktop/isetn/pfe/machine-learning/models/model_vehicule.pkl')
